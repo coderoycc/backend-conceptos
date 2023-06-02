@@ -35,5 +35,15 @@
   * Update: nos permite actualizar registro(s) (update)
   * Delete: nos permite eliminar registros (delete)
 
-## Bueanas practicas
+## Buenas practicas
 * MVC - ORM - MODELOS - ESTRUCTURACION
+
+
+## Conceptos varios
+* El protocolo de Websockets y el protocolo http son compatibles entre sí porque ambos funcionan a través de TCP.
+* Un sistema REST debe respetar 3 limitaciones
+  * Arquitectura - Basada en cliente servidor
+  * Stateless - cada solicitud dede contener toda la informacion necesaria.
+  * Interfaz uniforme - Simplifique y estadarice las interacciones del cliente.
+
+* No es recomendable usar **md5** para cifrar contraseñas pues es facilmente descifrable.
