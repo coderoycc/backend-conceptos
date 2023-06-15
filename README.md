@@ -45,5 +45,5 @@
   * Arquitectura - Basada en cliente servidor
   * Stateless - cada solicitud dede contener toda la informacion necesaria.
   * Interfaz uniforme - Simplifique y estadarice las interacciones del cliente.
-
 * No es recomendable usar **md5** para cifrar contraseñas pues es facilmente descifrable.
+* 
